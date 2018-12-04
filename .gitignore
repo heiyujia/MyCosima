@@ -1,0 +1,15 @@
+# gitignore file
+
+/new_core_c28/Debug/*
+/new_core_c28/.settings/*
+/new_core_m3/Debug/*
+/new_core_m3/.launches/*
+/new_core_m3/.settings/*
+/new_core_m3/.config/*
+/new_core_m3/src/*
+/.metadata/*
+/dvt/*
+/RemoteSystemsTempFiles/*
+
+
+
